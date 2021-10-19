@@ -1,2 +1,2 @@
 # emojiMeaning
-Created with CodeSandbox
+click and get emoji result.
